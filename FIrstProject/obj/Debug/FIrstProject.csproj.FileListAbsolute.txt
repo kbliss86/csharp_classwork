@@ -1,0 +1,7 @@
+C:\Users\Kendall\bootcamp_c_sharp\FIrstProject\bin\Debug\FIrstProject.exe.config
+C:\Users\Kendall\bootcamp_c_sharp\FIrstProject\bin\Debug\FIrstProject.exe
+C:\Users\Kendall\bootcamp_c_sharp\FIrstProject\bin\Debug\FIrstProject.pdb
+C:\Users\Kendall\bootcamp_c_sharp\FIrstProject\obj\Debug\FIrstProject.csproj.AssemblyReference.cache
+C:\Users\Kendall\bootcamp_c_sharp\FIrstProject\obj\Debug\FIrstProject.csproj.CoreCompileInputs.cache
+C:\Users\Kendall\bootcamp_c_sharp\FIrstProject\obj\Debug\FIrstProject.exe
+C:\Users\Kendall\bootcamp_c_sharp\FIrstProject\obj\Debug\FIrstProject.pdb
